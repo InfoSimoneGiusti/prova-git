@@ -23,7 +23,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Simone Giusti - CONFLITTO</h1>
+        <h1>Simone Giusti - CICCIOPASTICCIO</h1>
         <h3>Classe 87</h3>
         <ul>
             <li><a href="">ciao</a></li>
