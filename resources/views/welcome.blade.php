@@ -25,7 +25,9 @@
     <body class="antialiased">
         <h1>Simone Giusti - 222</h1>
         <h3>Classe 87</h3>
-        <p>Lorem ipsum</p>
+
+        <p>Ciccio bello</p>
+
         <ul>
             <li><a href="">ciao</a></li>
         </ul>
