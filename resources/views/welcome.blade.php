@@ -26,7 +26,7 @@
         <h1>Simone Giusti - 222</h1>
         <h3>Classe 87</h3>
 
-        <p>Ciccio bello</p>
+        <p>Quant'è bella giovinezza...</p>
 
         <ul>
             <li><a href="">ciao</a></li>
